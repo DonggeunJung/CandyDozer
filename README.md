@@ -25,4 +25,6 @@
 
 GitHub Link : https://github.com/DonggeunJung/CandyDozer/
 
+Download APK file : https://github.com/DonggeunJung/CandyDozer/blob/master/Etc/CandyDozer.zip
+
 Any question => Email : topsan72@gmail.com / Author : Donggeun Jung (Dennis)
